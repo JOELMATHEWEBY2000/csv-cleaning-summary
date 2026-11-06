@@ -1,0 +1,6 @@
+name,age,city,salary
+Alice,25,London,45000
+Bob,,Paris,52000
+Charlie,30,,48000
+Diana,28,London,
+,35,Tokyo,61000
